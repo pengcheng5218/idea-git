@@ -9,5 +9,6 @@ public class te {
         System.out.println("java");
         System.out.println(".net");
         System.out.println("php");
+        System.out.println("c");
     }
 }

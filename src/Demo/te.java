@@ -8,5 +8,6 @@ public class te {
         System.out.println("c++");
         System.out.println("java");
         System.out.println(".net");
+        System.out.println("php");
     }
 }
